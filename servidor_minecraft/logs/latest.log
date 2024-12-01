@@ -1,0 +1,36 @@
+[06:23:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:23:35] [ServerMain/INFO]: Loaded 1290 recipes
+[06:23:36] [ServerMain/INFO]: Loaded 1399 advancements
+[06:23:37] [Server thread/INFO]: Starting minecraft server version 1.21
+[06:23:37] [Server thread/INFO]: Loading properties
+[06:23:37] [Server thread/INFO]: Default game type: SURVIVAL
+[06:23:37] [Server thread/INFO]: Generating keypair
+[06:23:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:23:37] [Server thread/INFO]: Using epoll channel type
+[06:23:37] [Server thread/INFO]: Preparing level "world"
+[06:23:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:23:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:23:41] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[06:23:41] [Server thread/INFO]: Time elapsed: 642 ms
+[06:23:41] [Server thread/INFO]: Done (3.966s)! For help, type "help"
+[06:24:30] [User Authenticator #1/INFO]: UUID of player Fr4nko7k is 23ea97aa-5595-43d3-992b-ad99c23b8dfa
+[06:24:32] [Server thread/INFO]: Fr4nko7k[/100.108.145.8:59698] logged in with entity id 3 at (5.5, 67.0, 10.5)
+[06:24:32] [Server thread/INFO]: Fr4nko7k joined the game
+[06:25:33] [Server thread/INFO]: Fr4nko7k lost connection: Disconnected
+[06:25:33] [Server thread/INFO]: Fr4nko7k left the game
+[06:28:33] [User Authenticator #2/INFO]: UUID of player Fr4nko7k is 23ea97aa-5595-43d3-992b-ad99c23b8dfa
+[06:28:34] [Server thread/INFO]: Fr4nko7k[/100.108.145.8:59885] logged in with entity id 520 at (-2.835823410403031, 70.0, 5.555386309622887)
+[06:28:34] [Server thread/INFO]: Fr4nko7k joined the game
+[06:29:20] [Server thread/INFO]: Fr4nko7k lost connection: Disconnected
+[06:29:20] [Server thread/INFO]: Fr4nko7k left the game
+[06:29:23] [User Authenticator #3/INFO]: UUID of player Fr4nko7k is 23ea97aa-5595-43d3-992b-ad99c23b8dfa
+[06:29:24] [Server thread/INFO]: Fr4nko7k[/100.108.145.8:59957] logged in with entity id 758 at (-2.869155377788146, 70.0, 5.791072414830432)
+[06:29:24] [Server thread/INFO]: Fr4nko7k joined the game
+[06:29:36] [Server thread/INFO]: Made Fr4nko7k a server operator
+[06:29:45] [Server thread/INFO]: [Fr4nko7k: Set the time to 1000]
+[06:30:05] [Server thread/INFO]: [Fr4nko7k: The difficulty has been set to Peaceful]
+[06:30:17] [Server thread/INFO]: Fr4nko7k lost connection: Disconnected
+[06:30:17] [Server thread/INFO]: Fr4nko7k left the game
+[06:33:03] [User Authenticator #4/INFO]: UUID of player Fr4nko7k is 23ea97aa-5595-43d3-992b-ad99c23b8dfa
+[06:33:04] [Server thread/INFO]: Fr4nko7k[/100.108.145.8:60128] logged in with entity id 1029 at (-2.7175027912535783, 70.0, 4.884737638139243)
+[06:33:04] [Server thread/INFO]: Fr4nko7k joined the game
